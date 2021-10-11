@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Raneem Khafagy, I am an undergraduate Electronics and Communications student
-
-- 🌱 I’m currently expanding my knowledge in Flutter framework and learning full stack development using Laravel 
+- 🌱 I’m currently learning machine learning 
+- ⚡ I’m skilled in Mobile App Development Using Flutter framework and full stack development using Laravel 
 - 📫 How to reach me: raneemkhafagy@gmail.com
 
 <!--
