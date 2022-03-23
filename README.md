@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Raneem Khafagy, I am an undergraduate Electronics and Communications student
-- 🌱 interested in the development and deployment of ML algorithms, the opportunities that bring the development of real-world applications using AI.
-- ⚡ I’m skilled in Mobile App Development Using Flutter framework and full stack development using Laravel 
+- 🔭 interested in the development and deployment of ML algorithms, the opportunities that bring the development of real-world applications using AI.
+<!-- - ⚡ I’m skilled in Mobile App Development Using Flutter framework and full stack development using Laravel  -->
 - 📫 How to reach me: raneemkhafagy@gmail.com
 
 <!--
