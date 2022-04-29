@@ -24,13 +24,13 @@ My name is Raneem Khafagy, I am a `Junior`  Electronics and Communications stude
 <details> 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <p align="center">
-    <a href="https://github.com/Raneem-Khafagy"><img alt="Raneem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raneem-Khafagy&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+    <a href="https://github.com/Raneem-Khafagy"><img alt="Raneem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raneem-Khafagy&custom_title=Raneem's%20Contribution%20Graph&theme=react-dark&hide_border=true" /></a>
 </details>
 
 <br>
 
 ### <img src="https://media.giphy.com/media/VIE8BijRkECoGB9vuM/giphy.gif" width="30px">  My contribution streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raneem-Khafagy&hide_border=true8&theme=algolia&layout=compact" alt="Raneem" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raneem-Khafagy&hide_border=true&theme=algolia&layout=compact" alt="Raneem" /></p>
 
 <br>
 
