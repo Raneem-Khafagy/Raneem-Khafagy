@@ -40,6 +40,7 @@ My name is Raneem Khafagy, I am a `Junior`  Electronics and Communications stude
 
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/Raneem-Khafagy)[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=raneemkhafagy@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](raneemkhafagy@gmail.com)[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raneem-khafagy/)
 
+</center>
 
 
 <!--
