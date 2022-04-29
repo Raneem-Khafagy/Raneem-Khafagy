@@ -6,7 +6,7 @@ My name is Raneem Khafagy, I am a `Junior`  Electronics and Communications stude
   
 <br>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Status
 
 <details>
   <summary><b>📊 GitHub Profile Status</b></summary>
