@@ -11,26 +11,26 @@ My name is Raneem Khafagy, I am a `Junior`  Electronics and Communications stude
 <details>
   <summary><b>📊 GitHub Profile Stats</b></summary>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Raneem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Raneem-Khafagy&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Raneem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Raneem-Khafagy&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="192px"/></a>
 </details>
 
 <details> 
   <summary><b>💻 Most used languages</b></summary>
   <p align="center">
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raneem-Khafagy&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Raneem" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raneem-Khafagy&langs_count=10&show_icons=true&locale=en&layout=compact&hide_border=true&theme=algolia" alt="Raneem" height="192px"/>
 </details>
 
 <details> 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <p align="center">
-    <a href="https://github.com/Raneem-Khafagy"><img alt="Raneem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raneem-Khafagy&custom_title=Raneem's%20Contribution%20Graph&theme=xcode&hide_border=true&point=ffff&line=ffff" /></a>
+    <a href="https://github.com/Raneem-Khafagy"><img alt="Raneem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raneem-Khafagy&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
 </details>
 
 <br>
 
 ### <img src="https://media.giphy.com/media/VIE8BijRkECoGB9vuM/giphy.gif" width="30px">  My contribution streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raneem-Khafagy&hide_border=true" alt="Raneem" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raneem-Khafagy&hide_border=true8&theme=algolia&layout=compact" alt="Raneem" /></p>
 
 <br>
 
