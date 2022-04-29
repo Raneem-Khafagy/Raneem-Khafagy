@@ -9,7 +9,7 @@ My name is Raneem Khafagy, I am a `Junior`  Electronics and Communications stude
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
 
 <details>
-  <summary><b>📊 GitHub Profile Stats</b></summary>
+  <summary><b>📊 GitHub Profile Status</b></summary>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Raneem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Raneem-Khafagy&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="192px"/></a>
 </details>
