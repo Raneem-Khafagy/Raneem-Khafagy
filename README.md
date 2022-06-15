@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="25px"> 
+### Hi there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="4%"> 
 My name is Raneem Khafagy, I am a `Junior`  Electronics and Communications student  at Faculty of Engineering Alexandria University
 - 🔭 interested in the development and deployment of ML algorithms, the opportunities that bring the development of real-world applications using AI.
 <!-- - ⚡ I’m skilled in Mobile App Development Using Flutter framework and full stack development using Laravel  -->
@@ -6,7 +6,7 @@ My name is Raneem Khafagy, I am a `Junior`  Electronics and Communications stude
   
 <br>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Status
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="4%"> Github Status
 
 <details>
   <summary><b>📊 GitHub Profile Status</b></summary>
@@ -29,12 +29,12 @@ My name is Raneem Khafagy, I am a `Junior`  Electronics and Communications stude
 
 <br>
 
-### <img src="https://media.giphy.com/media/VIE8BijRkECoGB9vuM/giphy.gif" width="30px">  My contribution streak
+### <img src="https://media.giphy.com/media/VIE8BijRkECoGB9vuM/giphy.gif" width="4%">  My contribution streak
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raneem-Khafagy&hide_border=true&theme=algolia&layout=compact" alt="Raneem" /></p>
 
 <br>
 
-### <img src="https://media.giphy.com/media/efUQrWLjbgji5u1Ove/giphy.gif" width="30px"> Connect with me
+### <img src="https://media.giphy.com/media/efUQrWLjbgji5u1Ove/giphy.gif" width="4%"> Connect with me
 
 <center>
 
