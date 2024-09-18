@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="4%"> 
-My name is Raneem Khafagy, I am a `Junior`  Data Scientist 
+My name is Raneem Khafagy, I am a Data Scientist 
 - 🔭 interested in the development and deployment of ML algorithms, the opportunities that bring the development of real-world applications using AI.
 <!-- - ⚡ I’m skilled in Mobile App Development Using Flutter framework and full stack development using Laravel  -->
 <!-- - 📫 How to reach me: raneemkhafagy@gmail.com -->
